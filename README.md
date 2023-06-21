@@ -6,7 +6,6 @@ Este projeto consiste em um validador de formulários para área de login. Foram
 
 
 <h4> Tecnologias utilizadas ℹ️ </h4>
-<hr>
     <ul>
         <li> HTML </li>
         <li> CSS </li>
