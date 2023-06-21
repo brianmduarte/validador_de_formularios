@@ -13,4 +13,4 @@ Este projeto consiste em um validador de formulários para área de login. Foram
     </ul>
 <br>
 
-Clique no termo Validador para acessar o projeto! Abraços
+Clique no termo <a href="https://brianmduarte.github.io/validador_de_formularios/" target="_blank"> Validador </a> para acessar o projeto! Abraços
